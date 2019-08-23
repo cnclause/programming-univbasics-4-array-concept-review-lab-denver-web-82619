@@ -24,4 +24,3 @@ def find_min_value(array)
 end 
 return array.min
 end
-end
